@@ -24,3 +24,7 @@ The project uses [Keras](https://keras.io/) that is found in [Tensorflow](https:
 - click **new** and instead of choosing **Python3 kernel** choose the kernel we created , in our case its aclled **ML-kernel**
 - Proceed with the project as tensorflow is found within your project folder
     
+## The results of the project are as follows
+Showing that we could build an app which will correctly identify whether image uploaded by the user is either a **dog** or a **cat**
+- ![Screenshot of first result.](result1.png)
+- ![Screenshot of second result.](result2.png)
