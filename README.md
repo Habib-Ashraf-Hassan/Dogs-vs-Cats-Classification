@@ -18,7 +18,7 @@ The project uses [Keras](https://keras.io/) that is found in [Tensorflow](https:
   - Install all these libraries as they shall be used in the project, install them while in the virtual environment
 - Install a python kernel to use for this project
     - run command **pip install ipykernel** to install ipykernel
-    - run command **python -m ipykernel install --user --name ML-kernel** this creates a kernel with the name _ML-kernel_
+    - run command  **python -m ipykernel install --user --name ML-kernel**   this creates a kernel with the name _ML-kernel_
 - Open your jupyter notebook
 - navigate to your project folder where we have the virtual environment
 - click **new** and instead of choosing **Python3 kernel** choose the kernel we created , in our case its aclled **ML-kernel**
